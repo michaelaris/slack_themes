@@ -58,6 +58,10 @@ If you've found or created an awesome theme worth sharing, submit a Pull Request
 `#303E4D, #2C3849, #6698C8, #FFFFFF, #4A5664, #FFFFFF, #94E864, #78AF8F`
 ![Preview](http://i1220.photobucket.com/albums/dd454/bharadwaj6/slack%20images/ochin_zps5ef2aa75.png)
 
+##### O Canada
+`#C0392B, #96281B, #EEEEEE, #6C7A89, #96281B, #FFFFFF, #55929D, #FF9287`
+![Preview](http://www.mediafire.com/convkey/9ce7/casmu4ff4t4682nzg.jpg)
+
 ##### Solarized
 `#FDF6E3, #EEE8D5, #93A1A1, #FDF6E3, #EEE8D5, #657B83, #2AA198, #DC322F`
 ![Preview](http://i1220.photobucket.com/albums/dd454/bharadwaj6/slack%20images/solarized_zps86a8d0fb.png)
